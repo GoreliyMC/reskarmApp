@@ -65,4 +65,16 @@
         android:text="TextView"
         tools:layout_editor_absoluteY="63dp" />
 
+    <Button
+        android:id="@+id/butToReg"
+        android:layout_width="136dp"
+        android:layout_height="37dp"
+        android:text="Registration"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.941"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.01999998" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
